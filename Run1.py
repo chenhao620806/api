@@ -4,7 +4,7 @@ from unittestreport import TestRunner
 from Common.ProjectPath.file_path import test_report_path, test_dir_path, test_report_name
 
 # TestHost = input('请输入测试环境 ：')
-# setattr(ConfigBase, 'BaseUrl', TestHost)
+# setattr(ConfigBase, 'BaseUrl', TestHost)9999
 Run1 = 'test_*'
 
 if __name__ == '__main__':
