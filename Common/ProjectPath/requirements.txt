@@ -1,8 +1,0 @@
-ddt==1.3.1
-urllib3==1.25.9
-PyMySQL==0.9.3
-pandas==1.0.3
-xlrd==1.2.0
-requests==2.23.0
-openpyxl==3.0.3
-unittestreport==1.1.9
